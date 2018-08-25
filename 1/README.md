@@ -12,6 +12,8 @@ _**Example**_:\
 Input: `["1.0.2", "0.3.1", "0.2.5", "1.6.4"]`\
 Output: `["0.2.5", "0.3.1", "1.0.2", "1.6.4"]`
 
+✨ **For extra kudos attempt a solution that doesn't use a built-in sorting algorithm!**
+
 ### Sample Structure
 
 ```cpp
