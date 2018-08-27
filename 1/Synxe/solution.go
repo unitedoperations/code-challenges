@@ -6,14 +6,6 @@ import (
 	"strings"
 )
 
-// func sortVersions(versions []string) []string {
-//     sorted := make([]string, len(versions))
-//     copy(sorted, versions)
-
-//     sort.Strings(sorted)
-//     return sorted
-// }
-
 func sortVersions(versions []string) []string {
 	// Convert a version string into slice of 3 integers
 	asIntSlice := func(arr string) []int {
